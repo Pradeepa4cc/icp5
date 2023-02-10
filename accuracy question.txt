@@ -1,0 +1,1 @@
+Better accuracy can be achieve through Gaussian algorithm. we got better and greater accuracy than that of svm
